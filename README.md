@@ -42,6 +42,6 @@
 |X|
 |Y|
 |Z|
-|zuul|[zul]|祖哦|netflix开源的一个网关服务|
+|zuul|[zul]|祖哦|netflix开源的一个网关服务，springcloud组件之一|
 
 
