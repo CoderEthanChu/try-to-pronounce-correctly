@@ -24,6 +24,7 @@
 |kubernetes|[kubə’netis]|库伯耐踢死,k8s|google开源的著名容器编排系统|
 |kotlin|---|科特林|JetBrains 开发的多平台静态编程语言|
 |L|
+|lombok|['lɔmbɔk]|隆布克|一个开源的java快速开发工具库|
 |M|
 |N|
 |nginx|[ˈendʒɪnks]|恩静克思|一个高性能的HTTP和反向代理web服务器|
