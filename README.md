@@ -12,6 +12,7 @@
 |D|
 |docker|[ˈdɑːkər]|嗒可儿|golang开发的容器引擎，底层使用linux的LXC|
 |debian|['dɛbɪrn]|蝶比安|linux的一个开源自由发行版|
+|durid|['dru:id]|德鲁伊|阿里开源的一个数据库连接池|
 |E|
 |etcd|[et-see-dee]|诶特涩得|使用使用Raft协议的分布式健值存储系统|
 |F|
