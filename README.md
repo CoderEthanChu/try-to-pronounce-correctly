@@ -4,22 +4,25 @@
 
 >请按照字典a-z字母顺序编排
 
-|单词|音标|歪读|简介|
+|单词|标准音标|正经歪读|简介|
 |---|---|---|---|
 |A|
 |B|
 |C|
 |D|
 |docker|[ˈdɑːkər]|嗒可儿|golang开发的容器引擎，底层使用linux的LXC|
+|debian|['dɛbɪrn]|蝶比安|linux的一个开源自由发行版|
 |E|
 |etcd|[et-see-dee]|诶特涩得|使用使用Raft协议的分布式健值存储系统|
 |F|
 |G|
+|guava|[ˈɡwɑːvə]|瓜娃|一个google开源java工具库|
 |H|
 |I|
 |J|
 |K|
 |kubernetes|[kubə’netis]|库伯耐踢死,k8s|google开源的著名容器编排系统|
+|kotlin|---|科特林|JetBrains 开发的多平台静态编程语言|
 |L|
 |M|
 |N|
