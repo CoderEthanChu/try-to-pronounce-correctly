@@ -26,6 +26,7 @@
 |H|
 |hystrix|---|嘿斯坠克斯|netflix开源的熔断器服务，springcloud组件之一|
 |haskell|[ˈhæskəl]|憨斯克哦|一种纯函数式的编程语言|
+|hessian|['hɛʃən]|嘿瑟|一个轻量的基于二进制的RPC框架|
 |I|
 |J|
 |K|
@@ -42,6 +43,7 @@
 |O|
 |P|
 |python|['paɪθɑn|派森（咬舌头）|一种流行编程语言|
+|protobuf|['prəʊtəkɒl]['bʌfə]|普柔托巴服|一个google出品的rpc高效序列化类库|
 |Q|
 |R|
 |Raft|[rɑːft]|如啊福特|一种分布式一致性算法|
