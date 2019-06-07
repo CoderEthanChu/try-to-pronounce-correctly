@@ -30,7 +30,7 @@
 |I|
 |J|
 |K|
-|kubernetes|[kubə’netis]|库伯耐踢死|google开源的著名容器编排系统|
+|kubernetes|[kubə’netis]|库伯儿-耐踢死|google开源的著名容器编排系统|
 |kotlin|---|科特林|JetBrains 开发的多平台静态编程语言|
 |L|
 |lombok|['lɔmbɔk]|隆波克|一个开源的java快速开发工具库|
@@ -44,7 +44,7 @@
 |OAuth2|[əʊ]['ɔθ]|呕啊似2|一个开放授权协议|
 |P|
 |python|['paɪθɑn|派森（咬舌头）|一种流行编程语言|
-|protobuf|['prəʊtəkɒl]['bʌfə]|普柔托巴服|一个google出品的rpc高效序列化类库|
+|protobuf|['prəʊtəkɒl]['bʌfə]|普柔托-巴服|一个google出品的rpc高效序列化类库|
 |Q|
 |R|
 |Raft|[rɑːft]|如啊福特|一种分布式一致性算法|
@@ -58,7 +58,7 @@
 |U|
 |V|
 |W|
-|WebAssembly|[ə'sɛmbli]|web呃森布列|一种全新的高性能的web前端技术|
+|WebAssembly|[ə'sɛmbli]|web-呃森布列|一种全新的高性能的web前端技术|
 |X|
 |Y|
 |Z|
