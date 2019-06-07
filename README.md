@@ -25,13 +25,14 @@
 |github|[ɡɪt hʌb]|get哈布|著名同性社交网站|
 |H|
 |hystrix|---|嘿斯坠克斯|netflix开源的熔断器服务，springcloud组件之一|
+|haskell|[ˈhæskəl]|憨斯克哦|一种纯函数式的编程语言|
 |I|
 |J|
 |K|
 |kubernetes|[kubə’netis]|库伯耐踢死|google开源的著名容器编排系统|
 |kotlin|---|科特林|JetBrains 开发的多平台静态编程语言|
 |L|
-|lombok|['lɔmbɔk]|隆布克|一个开源的java快速开发工具库|
+|lombok|['lɔmbɔk]|隆波克|一个开源的java快速开发工具库|
 |lua|['lua]|噜啊|一种脚本语言主要应用于游戏领域|
 |M|
 |N|
