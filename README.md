@@ -67,6 +67,7 @@
 |WebAssembly|[ə'sɛmbli]|web-呃森布列|一种全新的高性能的web前端技术|
 |X|
 |Y|
+|yaml|[ˈjæməl]|淹没|一种简洁的标记语言|
 |Z|
 |zuul|[zul]|祖哦|netflix开源的一个网关服务，springcloud组件之一|
 
