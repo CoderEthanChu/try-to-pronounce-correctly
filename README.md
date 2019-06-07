@@ -28,6 +28,7 @@
 |haskell|[ˈhæskəl]|憨斯克哦|一种纯函数式的编程语言|
 |hessian|['hɛʃən]|嘿瑟|一个轻量的基于二进制的RPC框架|
 |I|
+|idle|['aɪd(ə)l]|哎朵|linux中的上帝进程|
 |J|
 |jenkins|[ˈdʒɛŋkɪnz]|经肯斯|一款java开发的开源持续集成工具|
 |K|
