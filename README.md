@@ -59,6 +59,7 @@
 |scala|---|斯卡拉|一种运行在jvm上的编程语言|
 |slf4j|---|萨啦-for-j|一个facade模式的java日志框架|
 |sidekiq|---|塞克saik|一个ruby和rails项目中常用的后台任务处理服务|
+|sketch|[sketʃ]|斯k诶齐|一款UI设计软件|
 |T|
 |U|
 |V|
