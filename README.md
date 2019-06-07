@@ -56,7 +56,8 @@
 |swift|[swɪft]|斯威夫特|一款苹果发布的编程语言|
 |service mesh|[mɛʃ]|service慢吸|服务网格支持分布式开发的技术|
 |scala|---|斯卡拉|一种运行在jvm上的编程语言|
-|slf4j|---|萨啦-for-j|一个facade模式的java日志框架
+|slf4j|---|萨啦-for-j|一个facade模式的java日志框架|
+|sidekiq|---|塞克saik|一个ruby和rails项目中常用的后台任务处理服务|
 |T|
 |U|
 |V|
