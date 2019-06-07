@@ -29,9 +29,11 @@
 |hessian|['hɛʃən]|嘿瑟|一个轻量的基于二进制的RPC框架|
 |I|
 |J|
+|jenkins|[ˈdʒɛŋkɪnz]|经肯斯|一款java开发的开源持续集成工具|
 |K|
 |kubernetes|[kubə’netis]|库伯儿-耐踢死|google开源的著名容器编排系统|
 |kotlin|---|科特林|JetBrains 开发的多平台静态编程语言|
+|kong|[kɔŋ]|空|基于nginx开发的流量网关|
 |L|
 |lombok|['lɔmbɔk]|隆波克|一个开源的java快速开发工具库|
 |lua|['lua]|噜啊|一种脚本语言主要应用于游戏领域|
