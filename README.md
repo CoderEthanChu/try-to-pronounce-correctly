@@ -10,6 +10,7 @@
 |B|
 |C|
 |closure|['kloʒɚ]|克楼西儿|闭包，一种具有特殊的变量作用域的函数|
+|cucumber|['kjuːkʌmbə]|扣康姆倍儿|一个能用普通语言描述的测试用例的BDD工具|
 |D|
 |docker|[ˈdɑːkər]|嗒可儿|golang开发的容器引擎，底层使用linux的LXC|
 |debian|['dɛbɪrn]|蝶比安|linux的一个开源自由发行版|
@@ -23,6 +24,7 @@
 |guava|[ˈɡwɑːvə]|瓜娃|一个google开源java工具库|
 |git|[ɡɪt]|同get|著名分布式版本控制系统|
 |github|[ɡɪt hʌb]|get哈布|著名同性社交网站|
+|ginkgo|['ɡɪŋkɡo]|更口|一个基于Go语言的BDD测试框架|
 |H|
 |hystrix|---|嘿斯坠克斯|netflix开源的熔断器服务，springcloud组件之一|
 |haskell|[ˈhæskəl]|憨斯克哦|一种纯函数式的编程语言|
