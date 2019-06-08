@@ -7,10 +7,13 @@
 |A|
 |azure|['æʒɚ]|安及儿|微软云平台|
 |agile|['ædʒaɪl]|安煎哦|敏捷，一组流行的软件开发的方式方法统称|
+|app|[æp]|岸普|手机软件|
+|ajax|['eidʒæks]|诶捷克斯|一种创建交互式网页应用的网页开发技术|
 |B|
 |C|
 |closure|['kloʒɚ]|克楼西儿|闭包，一种具有特殊的变量作用域的函数|
 |cucumber|['kjuːkʌmbə]|扣康姆倍儿|一个能用普通语言描述的测试用例的BDD工具|
+|chrome|[krəʊm]|可肉姆|google出品的网络浏览器|
 |D|
 |docker|[ˈdɑːkər]|嗒可儿|golang开发的容器引擎，底层使用linux的LXC|
 |debian|['dɛbɪrn]|蝶比安|linux的一个开源自由发行版|
@@ -25,6 +28,7 @@
 |git|[ɡɪt]|同get|著名分布式版本控制系统|
 |github|[ɡɪt hʌb]|get哈布|著名同性社交网站|
 |ginkgo|['ɡɪŋkɡo]|更口|一个基于Go语言的BDD测试框架|
+|gradle|[g'reɪdl]|格瑞朵|一个开源项目构建工具常用于java和andriod等项目|
 |H|
 |hystrix|---|嘿斯坠克斯|netflix开源的熔断器服务，springcloud组件之一|
 |haskell|[ˈhæskəl]|憨斯克哦|一种纯函数式的编程语言|
@@ -33,6 +37,7 @@
 |idle|['aɪd(ə)l]|哎朵|linux中的上帝进程|
 |J|
 |jenkins|[ˈdʒɛŋkɪnz]|经肯斯|一款java开发的开源持续集成工具|
+|jpg|---|解派各|一种图像格式|
 |K|
 |kubernetes|[kubə’netis]|库伯儿-耐踢死|google开源的著名容器编排系统|
 |kotlin|---|科特林|JetBrains 开发的多平台静态编程语言|
@@ -42,6 +47,7 @@
 |lua|['lua]|噜啊|一种脚本语言主要应用于游戏领域|
 |linux|[ˈlɪnəks]|林纳克斯|一种可免费使用的UNIX操作系统|
 |M|
+|maven|['mevn]|寐闻|一个java的项目构建管理工具|
 |N|
 |nginx|[ˈendʒɪnks]|恩静克思|一个高性能的HTTP和反向代理web服务器|
 |neo4j|---|尼欧-for-j|一个java开发的高性能图数据库|
@@ -65,6 +71,7 @@
 |T|
 |U|
 |V|
+|vue|[vjuː]|同view|一套用于构建用户界面的渐进式框架，适合前端模块化|
 |W|
 |WebAssembly|[ə'sɛmbli]|web-呃森布列|一种全新的高性能的web前端技术|
 |X|
