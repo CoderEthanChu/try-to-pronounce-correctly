@@ -37,6 +37,7 @@
 |I|
 |idle|['aɪd(ə)l]|哎朵|linux中的上帝进程|
 |integer['ɪntɪdʒə]|因提及儿|整数类型|
+|iTunes|aɪ'tju:nz]|爱踢右恩斯|一款苹果公司开发的音乐app|
 |J|
 |jenkins|[ˈdʒɛŋkɪnz]|经肯斯|一款java开发的开源持续集成工具|
 |jpg|---|解派各|一种图像格式|
