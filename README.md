@@ -23,6 +23,7 @@
 |etcd|[et-see-dee]|诶特涩得|使用使用Raft协议的分布式健值存储系统|
 |eureka|[jʊ'rikə]|尤锐卡|netflix开源的云端服务发现服务，springcloud组件之一|
 |F|
+|fedora|[fɪ'dɔːrə]|费多如啊|一个开源的Linux发行版|
 |G|
 |guava|[ˈɡwɑːvə]|瓜娃|一个google开源java工具库|
 |git|[ɡɪt]|同get|著名分布式版本控制系统|
@@ -35,6 +36,7 @@
 |hessian|['hɛʃən]|嘿瑟|一个轻量的基于二进制的RPC框架|
 |I|
 |idle|['aɪd(ə)l]|哎朵|linux中的上帝进程|
+|integer['ɪntɪdʒə]|因提及儿|整数类型|
 |J|
 |jenkins|[ˈdʒɛŋkɪnz]|经肯斯|一款java开发的开源持续集成工具|
 |jpg|---|解派各|一种图像格式|
@@ -46,8 +48,10 @@
 |lombok|['lɔmbɔk]|隆波克|一个开源的java快速开发工具库|
 |lua|['lua]|噜啊|一种脚本语言主要应用于游戏领域|
 |linux|[ˈlɪnəks]|林纳克斯|一种可免费使用的UNIX操作系统|
+|lambda|['læmdə]|兰姆达|函数式编程风格的统称|
 |M|
 |maven|['mevn]|寐闻|一个java的项目构建管理工具|
+|matrix|[ˈmeɪtrɪks]|没炊克斯|矩阵/母体|
 |N|
 |nginx|[ˈendʒɪnks]|恩静克思|一个高性能的HTTP和反向代理web服务器|
 |neo4j|---|尼欧-for-j|一个java开发的高性能图数据库|
@@ -68,6 +72,8 @@
 |slf4j|---|萨啦-for-j|一个facade模式的java日志框架|
 |sidekiq|---|塞克saik|一个ruby和rails项目中常用的后台任务处理服务|
 |sketch|[sketʃ]|斯k诶齐|一款UI设计软件|
+|safari|[sə'fɑːrɪ]|萨法瑞|苹果出品浏览器|
+|schema|['skiːmə]|斯给妹儿|一种对数据库中对象集合的统称|
 |T|
 |U|
 |V|
