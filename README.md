@@ -45,11 +45,13 @@
 |kubernetes|[kubə’netis]|库伯儿-耐踢死|google开源的著名容器编排系统|
 |kotlin|---|科特林|JetBrains 开发的多平台静态编程语言|
 |kong|[kɔŋ]|空|基于nginx开发的流量网关|
+|Kanban|カンバン|看板|一种丰田生产模式中的重要概念，强调生产过程可视化，流动|
 |L|
 |lombok|['lɔmbɔk]|隆波克|一个开源的java快速开发工具库|
 |lua|['lua]|噜啊|一种脚本语言主要应用于游戏领域|
 |linux|[ˈlɪnəks]|林纳克斯|一种可免费使用的UNIX操作系统|
 |lambda|['læmdə]|兰姆达|函数式编程风格的统称|
+|lean|[liːn]|灵嗯|精益，一种衍生自丰田生产方式的一种管理哲学|
 |M|
 |maven|['mevn]|寐闻|一个java的项目构建管理工具|
 |matrix|[ˈmeɪtrɪks]|没炊克斯|矩阵/母体|
@@ -76,6 +78,7 @@
 |sketch|[sketʃ]|斯k诶齐|一款UI设计软件|
 |safari|[sə'fɑːrɪ]|萨法瑞|苹果出品浏览器|
 |schema|['skiːmə]|斯给妹儿|一种对数据库中对象集合的统称|
+|scrum|[skrʌm]|斯跨姆|一种敏捷开发过程框架|
 |T|
 |U|
 |ubuntu|[ʊ'bʊntʊ]|乌班图|一种开源Linux发行版操作系统|
