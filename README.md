@@ -19,9 +19,11 @@
 |debian|['dɛbɪrn]|蝶比安|linux的一个开源自由发行版|
 |durid|['dru:id]|德鲁伊|阿里开源的一个数据库连接池|
 |django|[ˈdʒæŋɡoʊ]|姜狗|一个开源的python的web应用框架|
+|dubbo|['dʌbəu]|达博|一个服务发现和治理分布式服务框架|
 |E|
 |etcd|[et-see-dee]|诶特涩得|使用使用Raft协议的分布式健值存储系统|
 |eureka|[jʊ'rikə]|尤锐卡|netflix开源的云端服务发现服务，springcloud组件之一|
+|elasticsearch|[ɪˈlæstɪk] [sɝtʃ]|A兰斯题刻色其|一个基于Lucene的分布式搜索服务器|
 |F|
 |fedora|[fɪ'dɔːrə]|费多如啊|一个开源的Linux发行版|
 |G|
@@ -30,6 +32,7 @@
 |github|[ɡɪt hʌb]|get哈布|著名同性社交网站|
 |ginkgo|['ɡɪŋkɡo]|更口|一个基于Go语言的BDD测试框架|
 |gradle|[g'reɪdl]|格瑞朵|一个开源项目构建工具常用于java和andriod等项目|
+|groovy|[ˈɡruvi]|咕如维|一种基于JVM的语言|
 |H|
 |hystrix|---|嘿斯坠克斯|netflix开源的熔断器服务，springcloud组件之一|
 |haskell|[ˈhæskəl]|憨斯克哦|一种纯函数式的编程语言|
@@ -45,7 +48,7 @@
 |kubernetes|[kubə’netis]|库伯儿-耐踢死|google开源的著名容器编排系统|
 |kotlin|---|科特林|JetBrains 开发的多平台静态编程语言|
 |kong|[kɔŋ]|空|基于nginx开发的流量网关|
-|Kanban|カンバン|看板|一种丰田生产模式中的重要概念，强调生产过程可视化，流动|
+|Kanban|カンバン|看板|一种丰田生产模式，强调生产过程可视化，流动|
 |L|
 |lombok|['lɔmbɔk]|隆波克|一个开源的java快速开发工具库|
 |lua|['lua]|噜啊|一种脚本语言主要应用于游戏领域|
