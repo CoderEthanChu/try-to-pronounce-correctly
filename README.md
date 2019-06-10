@@ -39,8 +39,9 @@
 |hessian|['hɛʃən]|嘿瑟|一个轻量的基于二进制的RPC框架|
 |I|
 |idle|['aɪd(ə)l]|哎朵|linux中的上帝进程|
-|integer['ɪntɪdʒə]|因提及儿|整数类型|
+|integer|['ɪntɪdʒə]|因提及儿|整数类型|
 |iTunes|aɪ'tju:nz]|爱踢右恩斯|一款苹果公司开发的音乐app|
+|istio|希腊语|意丝帝欧|一种实现微服务service mesh的解决方案|
 |J|
 |jenkins|[ˈdʒɛŋkɪnz]|经肯斯|一款java开发的开源持续集成工具|
 |jpg|---|解派各|一种图像格式|
