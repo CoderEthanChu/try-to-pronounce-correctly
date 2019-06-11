@@ -87,6 +87,7 @@
 |schema|['skiːmə]|斯给妹儿|一种对数据库中对象集合的统称|
 |scrum|[skrʌm]|斯跨姆|一种敏捷开发过程框架|
 |slice|[slaɪs]|丝莱丝|golang的一种基本类型，切片|
+|supervisor|[ˈsuːpərvaɪzər]|super崴日儿|一种python开发的进程管理工具|
 |T|
 |U|
 |ubuntu|[ʊ'bʊntʊ]|乌班图|一种开源Linux发行版操作系统|
