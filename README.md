@@ -20,6 +20,7 @@
 |durid|['dru:id]|德鲁伊|阿里开源的一个数据库连接池|
 |django|[ˈdʒæŋɡoʊ]|姜狗|一个开源的python的web应用框架|
 |dubbo|['dʌbəu]|达博|一个服务发现和治理分布式服务框架|
+|defer|[dɪ'fɜː]|低啡儿|一个golang的关键字，延迟执行|
 |E|
 |etcd|[et-see-dee]|诶特涩得|使用使用Raft协议的分布式健值存储系统|
 |eureka|[jʊ'rikə]|尤锐卡|netflix开源的云端服务发现服务，springcloud组件之一|
@@ -69,6 +70,7 @@
 |python|['paɪθɑn|派森（咬舌头）|一种流行编程语言|
 |pytorch|[paɪ][tɔːtʃ]|拍拓其|一个著名开源深度学习框架|
 |protobuf|['prəʊtəkɒl]['bʌfə]|普柔托-巴服|一个google出品的rpc高效序列化类库|
+|panic|['pænɪk]|潘尼克|一个golang的内置函数，抛出异常|
 |Q|
 |R|
 |Raft|[rɑːft]|如啊福特|一种分布式一致性算法|
