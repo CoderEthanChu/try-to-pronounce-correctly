@@ -25,7 +25,7 @@
 |E|
 |etcd|[et-see-dee]|诶特涩得|使用使用Raft协议的分布式健值存储系统|
 |eureka|[jʊ'rikə]|尤锐卡|netflix开源的云端服务发现服务，springcloud组件之一|
-|elasticsearch|[ɪˈlæstɪk] [sɝtʃ]|A兰斯题刻色其|一个基于Lucene的分布式搜索服务器|
+|elasticsearch|[ɪˈlæstɪk] [sɝtʃ]|诶兰斯题刻-色其|一个基于Lucene的分布式搜索服务器|
 |F|
 |fedora|[fɪ'dɔːrə]|费多如啊|一个开源的Linux发行版|
 |G|
