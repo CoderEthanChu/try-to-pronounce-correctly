@@ -89,6 +89,7 @@
 |slice|[slaɪs]|丝莱丝|golang的一种基本类型，切片|
 |supervisor|[ˈsuːpərvaɪzər]|super崴日儿|一种python开发的进程管理工具|
 |T|
+|thrift|[θrɪft]|斯瑞夫特|一个facebook开源的跨语言的RPC通信服务框架|
 |U|
 |ubuntu|[ʊ'bʊntʊ]|乌班图|一种开源Linux发行版操作系统|
 |V|
