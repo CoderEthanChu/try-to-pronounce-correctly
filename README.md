@@ -49,6 +49,7 @@
 |J|
 |jenkins|[ˈdʒɛŋkɪnz]|经肯斯|一款java开发的开源持续集成工具|
 |jpg|---|解派各|一种图像格式|
+|jedis|---|杰迪斯|一个流行的redis的java客户端|
 |K|
 |kubernetes|[kubə’netis]|库伯儿-耐踢死|google开源的著名容器编排系统|
 |kotlin|---|科特林|JetBrains 开发的多平台静态编程语言|
@@ -91,6 +92,7 @@
 |scrum|[skrʌm]|斯跨姆|一种敏捷开发过程框架|
 |slice|[slaɪs]|丝莱丝|golang的一种基本类型，切片|
 |supervisor|[ˈsuːpərvaɪzər]|super崴日儿|一种python开发的进程管理工具|
+|sharding|[ʃɑːdin]|夏叮|分片，一个数据库中扩展性方面的常见术语|
 |T|
 |thrift|[θrɪft]|斯瑞夫特|一个facebook开源的跨语言的RPC通信服务框架|
 |U|
