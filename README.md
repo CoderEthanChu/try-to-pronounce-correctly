@@ -16,6 +16,7 @@
 |closure|['kloʒɚ]|克楼西儿|闭包，一种具有特殊的变量作用域的函数|
 |cucumber|['kjuːkʌmbə]|扣康姆倍儿|一个能用普通语言描述的测试用例的BDD工具|
 |chrome|[krəʊm]|可肉姆|google出品的网络浏览器|
+|couchDB|[[kaʊtʃ]-db]|靠其-db|一个开源的面向文档的数据库，apache顶级项目，erlang开发|
 |D|
 |docker|[ˈdɑːkər]|嗒可儿|golang开发的容器引擎，底层使用linux的LXC|
 |debian|['dɛbɪrn]|蝶比安|linux的一个开源自由发行版|
