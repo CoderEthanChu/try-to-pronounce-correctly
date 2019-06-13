@@ -93,6 +93,7 @@
 |slice|[slaɪs]|丝莱丝|golang的一种基本类型，切片|
 |supervisor|[ˈsuːpərvaɪzər]|super崴日儿|一种python开发的进程管理工具|
 |sharding|[ʃɑːdin]|夏叮|分片，一个数据库中扩展性方面的常见术语|
+|SOLID|[ˈsɒlɪd]|梭理得|程序设计领域重要原则(单一功能、开闭原则、里氏替换、接口隔离以及依赖反转)|
 |T|
 |thrift|[θrɪft]|斯瑞夫特|一个facebook开源的跨语言的RPC通信服务框架|
 |U|
