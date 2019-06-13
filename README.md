@@ -64,6 +64,7 @@
 |M|
 |maven|['mevn]|寐闻|一个java的项目构建管理工具|
 |matrix|[ˈmeɪtrɪks]|没炊克斯|矩阵/母体|
+|密钥|---|miyao|密码学专业领域口头读miyao|
 |N|
 |nginx|[ˈendʒɪnks]|恩静克思|一个高性能的HTTP和反向代理web服务器|
 |neo4j|---|尼欧-for-j|一个java开发的高性能图数据库|
