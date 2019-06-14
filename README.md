@@ -39,6 +39,7 @@
 |ginkgo|['ɡɪŋkɡo]|更口|一个基于Go语言的BDD测试框架|
 |gradle|[g'reɪdl]|格瑞朵|一个开源项目构建工具常用于java和andriod等项目|
 |groovy|[ˈɡruvi]|咕如维|一种基于JVM的语言|
+|grid|[grɪd]|格瑞得|常见于前端布局，栅格|
 |H|
 |hystrix|---|嘿斯坠克斯|netflix开源的熔断器服务，springcloud组件之一|
 |haskell|[ˈhæskəl]|憨斯克哦|一种纯函数式的编程语言|
