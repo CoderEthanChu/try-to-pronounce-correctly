@@ -14,11 +14,13 @@
 |binary|['baɪnərɪ]|掰肋锐|二进制|
 |bosque|['bɒskeɪ]|巴斯克诶|一个微软新推出的编程语言|
 |blob|[blɑb]|不纳不|二进制大对象 binary large object|
+|bazaar|[bə'zɑː]|芭儿扎儿|一个分布式版本控制系统|
 |C|
 |closure|['kloʒɚ]|克楼西儿|闭包，一种具有特殊的变量作用域的函数|
 |cucumber|['kjuːkʌmbə]|扣康姆倍儿|一个能用普通语言描述的测试用例的BDD工具|
 |chrome|[krəʊm]|可肉姆|google出品的网络浏览器|
 |couchDB|[[kaʊtʃ]-db]|靠其-db|一个开源的面向文档的数据库，apache顶级项目，erlang开发|
+|currying|['kʌrɪŋ]|咖润|函数柯里化，将多变量函数，拆成单变量函数依次调用|
 |D|
 |docker|[ˈdɑːkər]|嗒可儿|golang开发的容器引擎，底层使用linux的LXC|
 |debian|['dɛbɪrn]|蝶比安|linux的一个开源自由发行版|
@@ -46,6 +48,7 @@
 |haskell|[ˈhæskəl]|憨斯克哦|一种纯函数式的编程语言|
 |hessian|['hɛʃən]|嘿瑟|一个轻量的基于二进制的RPC框架|
 |harbor|['hɑ:bə]|哈伯儿|一个企业级docker镜像仓库，港湾|
+|homebrew|[həʊm][bruː]|厚姆不如|一个mac os的软件包管理工具|
 |I|
 |idle|['aɪd(ə)l]|哎朵|linux中的上帝进程|
 |integer|['ɪntɪdʒə]|因提及儿|整数类型|
@@ -72,6 +75,7 @@
 |matrix|[ˈmeɪtrɪks]|没炊克斯|矩阵/母体|
 |密钥|---|miyao|密码学专业领域口头读miyao|
 |mutex|[mjuteks]|谬特克似|一个并发术语，互斥锁|
+|mercurial|[mɜː'kjʊərɪəl]|没扣优儿锐哦|一种python实现的轻量级分布式版本控制系统|
 |N|
 |nginx|[ˈendʒɪnks]|恩静克思|一个高性能的HTTP和反向代理web服务器|
 |neo4j|---|尼欧-for-j|一个java开发的高性能图数据库|
