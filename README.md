@@ -14,7 +14,7 @@
 |binary|['baɪnərɪ]|掰肋锐|二进制|
 |bosque|['bɒskeɪ]|巴斯克诶|一个微软新推出的编程语言|
 |blob|[blɑb]|不纳不|二进制大对象 binary large object|
-|bazaar|[bə'zɑː]|芭儿扎儿|一个分布式版本控制系统|
+|bazaar|[bə'zɑː]|芭儿扎|一个分布式版本控制系统|
 |C|
 |closure|['kloʒɚ]|克楼西儿|闭包，一种具有特殊的变量作用域的函数|
 |cucumber|['kjuːkʌmbə]|扣康姆倍儿|一个能用普通语言描述的测试用例的BDD工具|
