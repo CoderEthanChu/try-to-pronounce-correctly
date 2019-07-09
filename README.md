@@ -60,6 +60,7 @@
 |jenkins|[ˈdʒɛŋkɪnz]|经肯斯|一款java开发的开源持续集成工具|
 |jpg|---|解派各|一种图像格式|
 |jedis|---|杰迪斯|一个流行的redis的java客户端|
+|Jena|['jeinə]|杰娜|一个java库，用于语义网络相关处理|
 |K|
 |kubernetes|[kubə’netis]|库伯儿-耐踢死|google开源的著名容器编排系统|
 |kotlin|---|科特林|JetBrains 开发的多平台静态编程语言|
