@@ -113,6 +113,7 @@
 |snapshot|['snæpʃɒt]|斯难普吓特|一个版本类型标识|
 |T|
 |thrift|[θrɪft]|斯瑞夫特|一个facebook开源的跨语言的RPC通信服务框架|
+|tuple|[tʌpəl]|他破哦|一种Python的数据结构，元组|
 |U|
 |ubuntu|[ʊ'bʊntʊ]|乌班图|一种开源Linux发行版操作系统|
 |V|
