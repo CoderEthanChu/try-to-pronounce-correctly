@@ -113,6 +113,7 @@
 |SOLID|[ˈsɒlɪd]|梭理得|程序设计领域重要原则(单一功能、开闭原则、里氏替换、接口隔离以及依赖反转)|
 |snapshot|['snæpʃɒt]|斯难普吓特|一个版本类型标识|
 |selenium|[sə'liːniəm]|涩领捏儿姆|一个浏览器自动化测试框架|
+|scrapy|[ˈskreɪpɪ]|斯克瑞撇|一个python爬虫框架|
 |T|
 |thrift|[θrɪft]|斯瑞夫特|一个facebook开源的跨语言的RPC通信服务框架|
 |tuple|[tʌpəl]|他破哦|一种Python的数据结构，元组|
