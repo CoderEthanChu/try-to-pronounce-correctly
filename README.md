@@ -50,6 +50,7 @@
 |hessian|['hɛʃən]|嘿瑟|一个轻量的基于二进制的RPC框架|
 |harbor|['hɑ:bə]|哈伯儿|一个企业级docker镜像仓库，港湾|
 |homebrew|[həʊm][bruː]|厚姆不如|一个mac os的软件包管理工具|
+|HikariCP|光(ひかり)|嗨卡瑞CP|光，一款号称最快的数据库连接池|
 |I|
 |idle|['aɪd(ə)l]|哎朵|linux中的上帝进程|
 |integer|['ɪntɪdʒə]|因提及儿|整数类型|
@@ -84,6 +85,7 @@
 |neo4j|---|尼欧-for-j|一个java开发的高性能图数据库|
 |netty|['netɪ]|勒贴|一个java的高性能网络通信框架|
 |negroni|[nɪ'grəʊnɪ]|尼格肉尼|一个开源的golang三方库，使用原生net/http的中间件|
+|nacos|---|拉括斯|一个阿里开源的服务注册中心，Naming Configuration Service|
 |O|
 |OAuth2|[əʊ]['ɔθ]|呕啊似2|一个开放授权协议|
 |P|
